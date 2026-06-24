@@ -166,7 +166,7 @@ pytest tests/ -v
 
 ## Why DuckDB?
 
-DuckDB is an in-process analytical database — it requires no server, no configuration,
+DuckDB is an in-process analytical database, it requires no server, no configuration,
 and no Docker. It runs embedded in Python like SQLite but supports the full analytical
 SQL feature set: window functions, CTEs, PIVOT, UNNEST, ASOF joins, and direct
 reading of CSV and Parquet files. It is increasingly used in data science workflows
