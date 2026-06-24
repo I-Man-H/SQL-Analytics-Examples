@@ -1,6 +1,6 @@
 # sql-analytics-examples
 
-> **SQL + Python data analysis portfolio — e-commerce, cohort retention, and health outcomes**
+> **SQL + Python data analysis case scenario — e-commerce, cohort retention, and health outcomes**
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-1.0-yellow?style=flat-square)](https://duckdb.org/)
