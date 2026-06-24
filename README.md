@@ -1,4 +1,4 @@
-# sql-analytics-portfolio
+# sql-analytics-examples
 
 > **SQL + Python data analysis portfolio — e-commerce, cohort retention, and health outcomes**
 
