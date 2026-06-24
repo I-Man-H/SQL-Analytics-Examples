@@ -44,8 +44,7 @@ self-join pattern, percentage calculations.
 
 **Python concepts:** Pivot table construction, cohort heatmap, retention curve, floor detection.
 
-> This is one of the most common SQL interview questions at product and e-commerce companies.
-> The full CTE chain is documented step-by-step.
+
 
 ---
 
